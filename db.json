@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the React lessons channel",
+      "content": "what is the react and learning",
+      "date": "2015-01-05T23:18:56.782Z"
+    },
+    {
+        "id": 2,
+        "title": "good thing i'm muslim",
+        "content": "A Muslim is a person whose hand and tongue ar not harmed",
+        "date": "2018-15-01T23:22:56.782Z"
+      },
+      {
+        "id": 3,
+        "title": "Yeni bir post ekliyoruz",
+        "content": "Bu post video cekimi sirasinda gonderilmistir",
+        "date": "2014-01-01T23:28:56.782Z"
+      },
+      {
+        "id": 4,
+        "title": "The best Selam and Salat",
+        "content": "Salat and Salam be upon our Prophet (s.a.v)",
+        "date": "2014-01-01T23:28:56.782Z"
+      },
+      {
+        "id":5,
+        "title": "Give an a example of hadith",
+        "content": "You will not enter Paradise unti you spend from the things you love in the wat of Allah",
+        "date": "2014-01-01T23:28:56.782Z"
+      }
+  ]
+}
